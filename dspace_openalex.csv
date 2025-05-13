@@ -20,27 +20,34 @@
 18,UNIVERSIDAD DEL NORTE,https://manglar.uninorte.edu.co/oai/request,https://manglar.uninorte.edu.co,Repositorio Digital de la Universidad del Norte
 19,Universidad del Rosario,https://repository.urosario.edu.co/server/oai/request,https://repository.urosario.edu.co,Repositorio institucional EdocUR
 20,FUNDACION UNIVERSIDAD DE AMERICA,https://repository.uamerica.edu.co/server/oai/request,https://repository.uamerica.edu.co,Lumieres - Repositorio institucional Universidad de América
-21,UNIVERSIDAD DE LA SALLE,https://ciencia.lasalle.edu.co/server/oai/request,https://ciencia.lasalle.edu.co,Repositorio Institucional Universidad de La Salle
-22,UNIVERSIDAD CATOLICA DE MANIZALES,https://repositorio.ucm.edu.co/oai/request,https://repositorio.ucm.edu.co,Repositorio Institucional-Universidad Catolica de Manizales
-23,UNIVERSIDAD ICESI,https://repository.icesi.edu.co/server/oai/request,https://repository.icesi.edu.co,Biblioteca Digital - Universidad Icesi
-24,UNIVERSIDAD TECNOLOGICA DE BOLIVAR,https://repositorio.utb.edu.co/oai/request,https://repositorio.utb.edu.co,Repositorio Institucional	UTB
-25,ESCUELA NACIONAL DEL DEPORTE,https://repositorio.endeporte.edu.co/oai/request,https://repositorio.endeporte.edu.co,Repositorio Digital Endeporte
-26,INSTITUTO UNIVERSITARIO DE LA PAZ,https://repository.universidadean.edu.co/server/oai/request,https://repository.universidadean.edu.co,Biblioteca Digital Minerva EAN
-27,POLITECNICO COLOMBIANO JAIME ISAZA CADAVID,https://repositorio.elpoli.edu.co/server/oai/request,https://repositorio.elpoli.edu.co,Repositorio Institucional POLIJIC
-28,COLEGIO DE ESTUDIOS SUPERIORES DE ADMINISTRACION-CESA-,https://repository.cesa.edu.co/oai/request,https://repository.cesa.edu.co,Biblioteca Digital - CESA
-29,UNIVERSIDAD CES,https://repository.ces.edu.co/server/oai/request,https://repository.ces.edu.co,Repositorio CES
-30,UNIVERSIDAD CATOLICA DE PEREIRA,https://repositorio.ucp.edu.co/server/oai/request,https://repositorio.ucp.edu.co,Repositorio Institucional de la Universidad Católica de Pereira - RIBUC
-31,FUNDACION CENTRO UNIVERSITARIO DE BIENESTAR RURAL,https://repositorio.uniajc.edu.co/server/oai/request,https://repositorio.uniajc.edu.co,Biblioteca Digital Uniajc
-32,POLITECNICO GRANCOLOMBIANO,https://alejandria.poligran.edu.co/oai/request,https://alejandria.poligran.edu.co,Repositorio Comunidad Politecnico Grancolombiano
-33,FUNDACION UNIVERSITARIA CATOLICA DEL NORTE,https://repositorio.ucn.edu.co/server/oai/request,https://repositorio.ucn.edu.co,Repositorio Digital Universidad Católica del Norte
-34,FUNDACIÓN UNIVERSITARIA COMPENSAR,https://repositoriocrai.ucompensar.edu.co/server/oai/request,https://repositoriocrai.ucompensar.edu.co,Repositorio Institucional Compensar
-35,UNIVERSIDAD EIA,https://repository.eia.edu.co/server/oai/request,https://repository.eia.edu.co,Repositorio Institucional Universidad EIA
-36,CORPORACION UNIVERSITARIA ADVENTISTA - UNAC,https://repository.unac.edu.co/oai/request,https://repository.unac.edu.co,Repositorio Institucional Unac
-37,CORPORACION UNIVERSITARIA REMINGTON,https://repositorio.uniremington.edu.co/server/oai/request,https://repositorio.uniremington.edu.co,Repositorio UNIREMINGTON
-38,INSTITUCIÓN UNIVERSITARIA MAYOR DE CARTAGENA,https://repositorio.unimayor.edu.co/server/oai/request,https://repositorio.unimayor.edu.co,Repositorio Institucional UNIMAYOR
-39,INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO,https://repositorio.pascualbravo.edu.co/server/oai/request,https://repositorio.pascualbravo.edu.co,DSpace at My University
-40,CORPORACION UNIVERSITARIA COMFACAUCA - UNICOMFACAUCA,https://repositorio.unicomfacauca.edu.co/oai/request,https://repositorio.unicomfacauca.edu.co,REPOSITORIO INSTITUCIONAL UNICOMFACAUCA
-41,INSTITUTO TOLIMENSE DE FORMACION TECNICA PROFESIONAL,https://repositorio.itfip.edu.co/oai/request,https://repositorio.itfip.edu.co,Repositorio Digital Itfip
-42,CORPORACION ESCUELA TECNOLOGICA DEL ORIENTE,https://repositorio.artesaniasdecolombia.com.co/oai/request,https://repositorio.artesaniasdecolombia.com.co,Cendar
-43,FUNDACION UNIVERSITARIA LOS LIBERTADORES,https://repository.libertadores.edu.co/server/oai/request,https://repository.libertadores.edu.co,Repositorio Institucional FULL
-44,FUNDACION UNIVERSITARIA AGRARIA DE COLOMBIA -UNIAGRARIA-,https://repository.uniagraria.edu.co/server/oai/request,https://repository.uniagraria.edu.co,Repositorio Fundación Universitaria Agraria de Colombia
+21,UNIVERSIDAD CATOLICA DE COLOMBIA,https://repository.ucatolica.edu.co/server/oai/request,https://repository.ucatolica.edu.co,Repositorio Institucional Universidad Católica de Colombia - RIUCaC
+22,UNIVERSIDAD EL BOSQUE,https://repositorio.unbosque.edu.co/server/oai/request,https://repositorio.unbosque.edu.co,Repositorio Institucional Universidad El Bosque
+23,UNIVERSIDAD DE LA SALLE,https://ciencia.lasalle.edu.co/server/oai/request,https://ciencia.lasalle.edu.co,Repositorio Institucional Universidad de La Salle
+24,UNIVERSIDAD DE LOS ANDES,https://repositorio.uniandes.edu.co/server/oai/request,https://repositorio.uniandes.edu.co,Repositorio institucional Séneca
+25,UNIVERSIDAD CATOLICA DE MANIZALES,https://repositorio.ucm.edu.co/oai/request,https://repositorio.ucm.edu.co,Repositorio Institucional-Universidad Catolica de Manizales
+26,UNIVERSIDAD ICESI,https://repository.icesi.edu.co/server/oai/request,https://repository.icesi.edu.co,Biblioteca Digital - Universidad Icesi
+27,UNIVERSIDAD TECNOLOGICA DE BOLIVAR,https://repositorio.utb.edu.co/oai/request,https://repositorio.utb.edu.co,Repositorio Institucional	UTB
+28,UNIVERSIDAD DE CIENCIAS APLICADAS Y AMBIENTALES - UDCA,https://repository.udca.edu.co/server/oai/request,https://repository.udca.edu.co,Repositorio - Universidad de Ciencias Aplicadas y Ambientales UDCA.
+29,ESCUELA NACIONAL DEL DEPORTE,https://repositorio.endeporte.edu.co/oai/request,https://repositorio.endeporte.edu.co,Repositorio Digital Endeporte
+30,INSTITUTO UNIVERSITARIO DE LA PAZ,https://repository.universidadean.edu.co/server/oai/request,https://repository.universidadean.edu.co,Biblioteca Digital Minerva EAN
+31,POLITECNICO COLOMBIANO JAIME ISAZA CADAVID,https://repositorio.elpoli.edu.co/server/oai/request,https://repositorio.elpoli.edu.co,Repositorio Institucional POLIJIC
+32,COLEGIO DE ESTUDIOS SUPERIORES DE ADMINISTRACION-CESA-,https://repository.cesa.edu.co/oai/request,https://repository.cesa.edu.co,Biblioteca Digital - CESA
+33,UNIVERSIDAD CES,https://repository.ces.edu.co/server/oai/request,https://repository.ces.edu.co,Repositorio CES
+34,UNIVERSIDAD CATOLICA DE PEREIRA,https://repositorio.ucp.edu.co/server/oai/request,https://repositorio.ucp.edu.co,Repositorio Institucional de la Universidad Católica de Pereira - RIBUC
+35,FUNDACION CENTRO UNIVERSITARIO DE BIENESTAR RURAL,https://repositorio.uniajc.edu.co/server/oai/request,https://repositorio.uniajc.edu.co,Biblioteca Digital Uniajc
+36,POLITECNICO GRANCOLOMBIANO,https://alejandria.poligran.edu.co/oai/request,https://alejandria.poligran.edu.co,Repositorio Comunidad Politecnico Grancolombiano
+37,FUNDACION UNIVERSITARIA DEL AREA ANDINA,https://digitk.areandina.edu.co/server/oai/request,https://digitk.areandina.edu.co,Areandina
+38,FUNDACION UNIVERSITARIA CATOLICA DEL NORTE,https://repositorio.ucn.edu.co/server/oai/request,https://repositorio.ucn.edu.co,Repositorio Digital Universidad Católica del Norte
+39,FUNDACIÓN UNIVERSITARIA COMPENSAR,https://repositoriocrai.ucompensar.edu.co/server/oai/request,https://repositoriocrai.ucompensar.edu.co,Repositorio Institucional Compensar
+40,UNIVERSIDAD EIA,https://repository.eia.edu.co/server/oai/request,https://repository.eia.edu.co,Repositorio Institucional Universidad EIA
+41,CORPORACION UNIVERSITARIA ADVENTISTA - UNAC,https://repository.unac.edu.co/oai/request,https://repository.unac.edu.co,Repositorio Institucional Unac
+42,UNIVERSIDAD DE SANTANDER - UDES,https://repositorio.udes.edu.co/server/oai/request,https://repositorio.udes.edu.co,Repositorio Universidad de Santander
+43,CORPORACION UNIVERSITARIA REMINGTON,https://repositorio.uniremington.edu.co/server/oai/request,https://repositorio.uniremington.edu.co,Repositorio UNIREMINGTON
+44,INSTITUCIÓN UNIVERSITARIA MAYOR DE CARTAGENA,https://repositorio.unimayor.edu.co/server/oai/request,https://repositorio.unimayor.edu.co,Repositorio Institucional UNIMAYOR
+45,INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO,https://repositorio.pascualbravo.edu.co/server/oai/request,https://repositorio.pascualbravo.edu.co,DSpace at My University
+46,TECNOLOGICO DE ANTIOQUIA,https://dspace.tdea.edu.co/oai/request,https://dspace.tdea.edu.co,Repositorio Institucional Tecnologico de Antioquia
+47,CORPORACION UNIVERSITARIA COMFACAUCA - UNICOMFACAUCA,https://repositorio.unicomfacauca.edu.co/oai/request,https://repositorio.unicomfacauca.edu.co,REPOSITORIO INSTITUCIONAL UNICOMFACAUCA
+48,INSTITUTO TOLIMENSE DE FORMACION TECNICA PROFESIONAL,https://repositorio.itfip.edu.co/oai/request,https://repositorio.itfip.edu.co,Repositorio Digital Itfip
+49,CORPORACION ESCUELA TECNOLOGICA DEL ORIENTE,https://repositorio.artesaniasdecolombia.com.co/oai/request,https://repositorio.artesaniasdecolombia.com.co,Cendar
+50,FUNDACION UNIVERSITARIA LOS LIBERTADORES,https://repository.libertadores.edu.co/server/oai/request,https://repository.libertadores.edu.co,Repositorio Institucional FULL
+51,FUNDACION UNIVERSITARIA AGRARIA DE COLOMBIA -UNIAGRARIA-,https://repository.uniagraria.edu.co/server/oai/request,https://repository.uniagraria.edu.co,Repositorio Fundación Universitaria Agraria de Colombia
