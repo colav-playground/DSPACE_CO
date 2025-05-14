@@ -10,7 +10,7 @@ df['repository_name'] = df['repository_name'].str.replace('\t',' ')
 hel.start_chrome()
 hel.go_to('https://docs.google.com/forms/d/e/1FAIpQLSf86ozWOlLPmlP9wsSyL7LBdjn867ydLsbcEEAb_4wE1Ug2NQ/viewform')
 
-for i in list(range(31,df.shape[0])):
+for i in list(range(0,df.shape[0])):
     hel.write('restrepo@udea.edu.co',into="Correo electrónico")
     hel.write(df.iloc[i]['base_url'],into="Your repository's OAI-PMH endpoint")
     hel.write(df.iloc[i]['repository_name'],into="Your repository's name")
