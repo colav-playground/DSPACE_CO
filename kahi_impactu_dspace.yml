@@ -159,7 +159,7 @@ workflow:
         - institution_id: 'https://ror.org/01h2taq97' # UNIVERSIDAD DE CIENCIAS APLICADAS Y AMBIENTALES - UDCA
           collection_name: dspace_udca_records
           repository_url: https://repository.udca.edu.co
-        - institution_id: "https://ror.org/01x03t965' # FUNDACI\xD3N UNIVERSITARIA COMPENSAR"
+        - institution_id: 'https://ror.org/01x03t965' # FUNDACI\xD3N UNIVERSITARIA COMPENSAR
           collection_name: dspace_ucompensar_records
           repository_url: https://repositoriocrai.ucompensar.edu.co
         - institution_id: 'https://ror.org/03ca7a577' # FUNDACION UNIVERSITARIA KONRAD LORENZ
@@ -234,7 +234,7 @@ workflow:
         - institution_id: 'https://ror.org/01nxen694' # UNIVERSIDAD ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO
           collection_name: dspace_escuelaing_records
           repository_url: https://repositorio.escuelaing.edu.co
-        - institution_id: "https://ror.org/05tkb8v92' # Universidad Aut\xF3noma Latinoamericana"
+        - institution_id: 'https://ror.org/05tkb8v92' # Universidad Aut\xF3noma Latinoamericana'
           collection_name: dspace_unaula_records
           repository_url: http://repositorio.unaula.edu.co:4000
         - institution_id: 'https://ror.org/02sqgkj21' # UNIVERSIDAD DE LA SABANA
@@ -246,7 +246,7 @@ workflow:
         - institution_id: 'https://ror.org/051xvqh87' # FUNDACION UNIVERSITARIA CATOLICA DEL NORTE
           collection_name: dspace_ucn_records
           repository_url: https://repositorio.ucn.edu.co
-        - institution_id: "https://ror.org/04axvmf19' # CORPORACI\xD3N UNIFICADA HISPANOAMERICANA DE EDUCACI\xD3N SUPERIOR"
+        - institution_id: 'https://ror.org/04axvmf19' # CORPORACI\xD3N UNIFICADA HISPANOAMERICANA DE EDUCACI\xD3N SUPERIOR
           collection_name: dspace_cun_records
           repository_url: https://repositorio.cun.edu.co
         - institution_id: 'https://ror.org/02fcfe885' # ESCUELA SUPERIOR DE GUERRA GENERAL RAFAEL REYES PRIETO
@@ -264,7 +264,7 @@ workflow:
         - institution_id: 'https://ror.org/056g73y51' # POLITECNICO COLOMBIANO JAIME ISAZA CADAVID
           collection_name: dspace_elpoli_records
           repository_url: https://repositorio.elpoli.edu.co
-        - institution_id: 'https://ror.org/00zy6vr46' # CORPORACION ACADEMIA SUPERIOR DE ARTES
+        - institution_id: 'https://ror.org/00edtwv66' # Secretaría de Educación del Distrito Capital
           collection_name: dspace_educacionbogota_records
           repository_url: https://repositoriosed.educacionbogota.edu.co
         - institution_id: 'https://ror.org/03jhhfg57' # CORPORACION UNIVERSITARIA ADVENTISTA - UNAC
@@ -294,7 +294,7 @@ workflow:
         - institution_id: 'https://ror.org/04td15k45' # UNIVERSIDAD COOPERATIVA DE COLOMBIA
           collection_name: dspace_ucc_records
           repository_url: https://repository.ucc.edu.co
-        - institution_id: "https://ror.org/0289gr697' # INSTITUCI\xD3N UNIVERSITARIA MAYOR DE CARTAGENA"
+        - institution_id: 'https://ror.org/0289gr697' # INSTITUCI\xD3N UNIVERSITARIA MAYOR DE CARTAGENA'
           collection_name: dspace_unimayor_records
           repository_url: https://repositorio.unimayor.edu.co
         - institution_id: 'https://ror.org/04sqpjb51' # UNIVERSIDAD DE SAN BUENAVENTURA
@@ -306,7 +306,7 @@ workflow:
         - institution_id: 'https://ror.org/05pm0vd24' # FUNDACION UNIVERSITARIA LOS LIBERTADORES
           collection_name: dspace_libertadores_records
           repository_url: https://repository.libertadores.edu.co
-        - institution_id: "https://ror.org/04yk0nx57' # FUNDACI\xD3N UNIVERSITARIA JUAN N. CORPAS"
+        - institution_id: 'https://ror.org/04yk0nx57' # FUNDACI\xD3N UNIVERSITARIA JUAN N. CORPAS
           collection_name: dspace_juanncorpas_records
           repository_url: https://repositorio.juanncorpas.edu.co
         - institution_id: 'https://ror.org/04s60rj63' # UNIVERSIDAD SURCOLOMBIANA
@@ -484,7 +484,7 @@ workflow:
         - institution_id: 'https://ror.org/01h2taq97' # UNIVERSIDAD DE CIENCIAS APLICADAS Y AMBIENTALES - UDCA
           collection_name: dspace_udca_records
           repository_url: https://repository.udca.edu.co
-        - institution_id: "https://ror.org/01x03t965' # FUNDACI\xD3N UNIVERSITARIA COMPENSAR"
+        - institution_id: 'https://ror.org/01x03t965' # FUNDACI\xD3N UNIVERSITARIA COMPENSAR
           collection_name: dspace_ucompensar_records
           repository_url: https://repositoriocrai.ucompensar.edu.co
         - institution_id: 'https://ror.org/03ca7a577' # FUNDACION UNIVERSITARIA KONRAD LORENZ
@@ -559,7 +559,7 @@ workflow:
         - institution_id: 'https://ror.org/01nxen694' # UNIVERSIDAD ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO
           collection_name: dspace_escuelaing_records
           repository_url: https://repositorio.escuelaing.edu.co
-        - institution_id: "https://ror.org/05tkb8v92' # Universidad Aut\xF3noma Latinoamericana"
+        - institution_id: 'https://ror.org/05tkb8v92' # Universidad Aut\xF3noma Latinoamericana'
           collection_name: dspace_unaula_records
           repository_url: http://repositorio.unaula.edu.co:4000
         - institution_id: 'https://ror.org/02sqgkj21' # UNIVERSIDAD DE LA SABANA
@@ -571,7 +571,7 @@ workflow:
         - institution_id: 'https://ror.org/051xvqh87' # FUNDACION UNIVERSITARIA CATOLICA DEL NORTE
           collection_name: dspace_ucn_records
           repository_url: https://repositorio.ucn.edu.co
-        - institution_id: "https://ror.org/04axvmf19' # CORPORACI\xD3N UNIFICADA HISPANOAMERICANA DE EDUCACI\xD3N SUPERIOR"
+        - institution_id: 'https://ror.org/04axvmf19' # CORPORACI\xD3N UNIFICADA HISPANOAMERICANA DE EDUCACI\xD3N SUPERIOR'
           collection_name: dspace_cun_records
           repository_url: https://repositorio.cun.edu.co
         - institution_id: 'https://ror.org/02fcfe885' # ESCUELA SUPERIOR DE GUERRA GENERAL RAFAEL REYES PRIETO
@@ -589,7 +589,7 @@ workflow:
         - institution_id: 'https://ror.org/056g73y51' # POLITECNICO COLOMBIANO JAIME ISAZA CADAVID
           collection_name: dspace_elpoli_records
           repository_url: https://repositorio.elpoli.edu.co
-        - institution_id: 'https://ror.org/00zy6vr46' # CORPORACION ACADEMIA SUPERIOR DE ARTES
+        - institution_id: 'https://ror.org/00edtwv66' # Secretaría de Educación del Distrito Capital
           collection_name: dspace_educacionbogota_records
           repository_url: https://repositoriosed.educacionbogota.edu.co
         - institution_id: 'https://ror.org/03jhhfg57' # CORPORACION UNIVERSITARIA ADVENTISTA - UNAC
@@ -619,7 +619,7 @@ workflow:
         - institution_id: 'https://ror.org/04td15k45' # UNIVERSIDAD COOPERATIVA DE COLOMBIA
           collection_name: dspace_ucc_records
           repository_url: https://repository.ucc.edu.co
-        - institution_id: "https://ror.org/0289gr697' # INSTITUCI\xD3N UNIVERSITARIA MAYOR DE CARTAGENA"
+        - institution_id: 'https://ror.org/0289gr697' # INSTITUCI\xD3N UNIVERSITARIA MAYOR DE CARTAGENA
           collection_name: dspace_unimayor_records
           repository_url: https://repositorio.unimayor.edu.co
         - institution_id: 'https://ror.org/04sqpjb51' # UNIVERSIDAD DE SAN BUENAVENTURA
@@ -631,7 +631,7 @@ workflow:
         - institution_id: 'https://ror.org/05pm0vd24' # FUNDACION UNIVERSITARIA LOS LIBERTADORES
           collection_name: dspace_libertadores_records
           repository_url: https://repository.libertadores.edu.co
-        - institution_id: "https://ror.org/04yk0nx57' # FUNDACI\xD3N UNIVERSITARIA JUAN N. CORPAS"
+        - institution_id: 'https://ror.org/04yk0nx57' # FUNDACI\xD3N UNIVERSITARIA JUAN N. CORPAS
           collection_name: dspace_juanncorpas_records
           repository_url: https://repositorio.juanncorpas.edu.co
         - institution_id: 'https://ror.org/04s60rj63' # UNIVERSIDAD SURCOLOMBIANA
